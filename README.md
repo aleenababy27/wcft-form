@@ -14,6 +14,9 @@ Technologies Used
 6.	Git / GitHub for version control
 7.	Stored Procedures for all CRUD (Create, Read, Update, Delete)
 Folder Structure
+
+
+
 wcft_form/
 │
 ├── Database/
